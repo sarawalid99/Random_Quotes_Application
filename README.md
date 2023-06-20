@@ -4,7 +4,7 @@ Made by : [**Me**](https://github.com/sarawalid99)
 
 Purpose: 
 ----------------------
-This is a simple HTML file that displays random quotes. Each time the page is loaded or the "Show another quote" button is clicked, a random quote along with its source, citation (if available), and year (if available) is displayed.
+This is a simple HTML file that displays random quotes using JavaScript. Each time the page is loaded or the "Show another quote" button is clicked, a random quote along with its source, citation (if available), and year (if available) is displayed.
 
 Usage: 
 ----------------------
